@@ -4,7 +4,7 @@
 #
 Name     : sbsigntools
 Version  : 0.9.1
-Release  : 4
+Release  : 5
 URL      : https://git.kernel.org/pub/scm/linux/kernel/git/jejb/sbsigntools.git/snapshot/sbsigntools-0.9.1.tar.gz
 Source0  : https://git.kernel.org/pub/scm/linux/kernel/git/jejb/sbsigntools.git/snapshot/sbsigntools-0.9.1.tar.gz
 Source1  : https://github.com/rustyrussell/ccan/archive/b1f28e17227f2320d07fe052a8a48942fe17caa5.tar.gz
