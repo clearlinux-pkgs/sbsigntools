@@ -1,5 +1,5 @@
 PKG_NAME := sbsigntools
-URL = https://git.kernel.org/pub/scm/linux/kernel/git/jejb/sbsigntools.git/snapshot/sbsigntools-0.9.3.tar.gz
+URL = https://git.kernel.org/pub/scm/linux/kernel/git/jejb/sbsigntools.git/snapshot/sbsigntools-0.9.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
